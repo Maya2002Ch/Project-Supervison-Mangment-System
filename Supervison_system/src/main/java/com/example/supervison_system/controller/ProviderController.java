@@ -1,4 +1,4 @@
-package com.example.supervison_system.controllers.controller;
+package com.example.supervison_system.controller;
 
 import com.example.slabiak.appointmentscheduler.entity.WorkingPlan;
 import com.example.slabiak.appointmentscheduler.model.ChangePasswordForm;

@@ -1,4 +1,4 @@
-package com.example.supervison_system.controllers.controller;
+package com.example.supervison_system.controller;
 
 import com.example.slabiak.appointmentscheduler.security.CustomUserDetails;
 import com.example.slabiak.appointmentscheduler.service.UserService;
